@@ -3,9 +3,9 @@
 
 # 联系方式
 
-- 手机：18520482928
-- Email：vinborgao@163.com 
-- 微信号：gaovinbor
+ - 手机：18520482928
+ - Email：vinborgao@163.com 
+ - 微信号：gaovinbor
 
 ---
 
@@ -19,7 +19,6 @@
  - 微信：gaovinbor
  - Github: http://github.com/vinbor 
  
-
  - 期望职位：运营类
  - 期望薪资：税前月薪3k~4k
  - 期望城市：广州
